@@ -1,9 +1,10 @@
-## Hi there 👋
 
+![bigsuccess](https://github.com/user-attachments/assets/09bb227f-4e9b-4924-a257-eb58db931af5)
 <!--
 **alicavus/alicavus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
